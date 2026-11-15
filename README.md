@@ -123,6 +123,4 @@ A finite simulation eventually completes every process, so it does not prove inf
 - Add workload presets and result export
 - Add automated unit tests for each scheduling engine
 
-## License
-
-No license has been selected yet. Add a license before allowing others to reuse or redistribute the project.
+## Demo Link : https://os-project-omega-three.vercel.app/
