@@ -11,9 +11,9 @@ The simulator animates processes as they move from the incoming queue to the rea
 
 ## Live demo
 
-[Open the deployed simulator](https://aware-cpu-scheduling-simulator.sonupajiyar559.chatgpt.site)
+[Open the deployed simulator](https://os-project-omega-three.vercel.app/)
 
-The hosted demo is currently private and may require ChatGPT sign-in.
+
 
 ## Features
 
